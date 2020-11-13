@@ -1,6 +1,6 @@
 'use strict';
 
-console.log('Hello world1');
+console.log('Hello world1!');
 
 var x = 10;
 var y = 15;
